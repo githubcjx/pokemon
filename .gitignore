@@ -1,0 +1,13 @@
+node_modules
+out
+.devin/*.local.json
+.env.local
+__pycache__/
+
+# Local previews and source artwork
+/scratchpad/
+/assets-src/
+
+# Large artwork collections, with source and rendering metadata tracked
+/public/pokemon/**/*.png
+/public/trainers/**/*.png

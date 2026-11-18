@@ -1,0 +1,25 @@
+{
+  "name": "pokemon-video",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio",
+    "render:ep01": "remotion render EP01 out/ep01-final-cries.mp4"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^9.8.1",
+    "@remotion/cli": "4.0.530",
+    "@remotion/gif": "4.0.530",
+    "@remotion/google-fonts": "^4.0.530",
+    "@remotion/three": "^4.0.530",
+    "@remotion/transitions": "^4.0.530",
+    "@types/three": "^0.186.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "4.0.530",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "typescript": "^5.6.0"
+  }
+}
